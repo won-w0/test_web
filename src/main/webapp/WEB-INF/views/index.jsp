@@ -4,8 +4,8 @@
 <body>
     <h2>JP server</h2>
     <hr>
-    <h1>${msg}</h1>
     <h1>Welcome to the JP website</h1>
+    <h1>Have a good time</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 20</h3>
 </body>
